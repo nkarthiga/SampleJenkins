@@ -27,9 +27,7 @@
 					<forkCount>3</forkCount>
 					<reuseForks>true</reuseForks>
 					<argLine>-Xmx1024m -XX:MaxPermSize=256m</argLine>
-					<suiteXmlFiles>
-						<suiteXmlFIle>RFPlusVMtestng.xml</suiteXmlFIle>
-					</suiteXmlFiles>
+					
 
 
 				</configuration>
